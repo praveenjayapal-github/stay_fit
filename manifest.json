@@ -1,0 +1,22 @@
+{
+    "manifest_version":2,    
+    "name":"Stay_Fit",
+    "version":"1.0",
+    "description":"Get regular remainder to stay hydrate and fit",
+    "icons": {
+        "16": "16.png",
+        "48": "48.png",
+        "128": "128.png"
+    },
+    "browser_action": {
+        "default_icon": "48.png",
+        "default_popup": "popup.html"
+    },
+    "permissions":[
+        "storage",
+        "notifications"
+    ], 
+    "background": {
+        "scripts": [ "background_script.js" ]
+     }
+}
