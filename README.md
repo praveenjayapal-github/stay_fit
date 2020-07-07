@@ -4,5 +4,14 @@
 <p class="has-line-data" data-line-start="4" data-line-end="5">According to The Washington Post, sitting without movement can lead to problems like muscle aches and degeneration, organ damage, slow brain function, and more. A small workout at your desk can help prevent these issues</p>
 </blockquote>
 <p class="has-line-data" data-line-start="6" data-line-end="7">It’s completely a chrome extension available world wide for every chrome users.</p>
-<h2 class="code-line" data-line-start=8 data-line-end=10 ><a id="Contact_8"></a>Contact</h2>
-<p class="has-line-data" data-line-start="10" data-line-end="11"><a href="mailto:reshaba.praveen@gmail.com">reshaba.praveen@gmail.com</a></p>
+<h1 class="code-line" data-line-start=7 data-line-end=8 ><a id="How_to_install_7"></a>How to install</h1>
+<ol>
+<li class="has-line-data" data-line-start="8" data-line-end="9">Download the entire code</li>
+<li class="has-line-data" data-line-start="9" data-line-end="10">Unzip the downloaded content</li>
+<li class="has-line-data" data-line-start="10" data-line-end="11">Open Google Chrome and get into extensions (chrome://extensions/)</li>
+<li class="has-line-data" data-line-start="11" data-line-end="12">Switch to “Developer Mode” (Can find the option in top right of ‘Chrome Extensions’)</li>
+<li class="has-line-data" data-line-start="12" data-line-end="13">Drag and drop the unzipped downloaded content</li>
+<li class="has-line-data" data-line-start="13" data-line-end="15">Ta-da your app installed into Google Chrome. You can see a small dumbbell in Chrome menu bar to start.</li>
+</ol>
+<h1 class="code-line" data-line-start=15 data-line-end=16 ><a id="Contact_15"></a>Contact</h1>
+<p class="has-line-data" data-line-start="16" data-line-end="17"><a href="mailto:reshaba.praveen@gmail.com">reshaba.praveen@gmail.com</a></p>
