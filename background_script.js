@@ -7,9 +7,9 @@ var timmer = "";
 var interval = "";
 var notifOptions = {
     type: "basic",
-    iconUrl: "icon.png",
+    iconUrl: "48.png",
     title: "Stay Healthy",
-    message: "It's time to drink some water and stay hydrate!"
+    message: "Thanks for updating Stay_Fit app! ***Get-Set-Go***"
 };
 
 // chrome.storage.sync.get('frequency', function (app) {
@@ -20,14 +20,13 @@ var notifOptions = {
 // var interval = setInterval(notify, timmer);
 
 function notify() {
-
     var ran = Math.floor((Math.random() * 18) + 1);
     var image = "Desk_Exercise/".concat(ran.toString().concat(".gif"));
     var notifOptionsImage = {
         type: "image",
-        iconUrl: "icon.png",
+        iconUrl: "48.png",
         title: "Stay Healthy",
-        message: "It's time to drink some water and follow the activity!",
+        message: "It's time to drink some water, relax and do some desk exercise!",
         imageUrl: image,
         requireInteraction : true
       };
