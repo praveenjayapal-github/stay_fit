@@ -8,10 +8,10 @@ $(function () {
 };
 
   $(".example").qController({
-    qStart: 30,
-    qMax: 60,
+    qStart: 45,
+    qMax: 90,
     qMin: 1,
-    qStatus: "Frequency: "
+    qStatus: "Timer : "
   });
 
   var background = chrome.extension.getBackgroundPage();
