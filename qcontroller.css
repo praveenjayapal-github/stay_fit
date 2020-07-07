@@ -1,0 +1,36 @@
+
+/* basic style of controller */
+.quantity{
+   font-size: 14px;
+   padding: 5px;
+   text-align: center;
+   width: 200px;
+   background: #ccc;
+   color: #212121;
+   border-radius: 4px;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+}
+/* qController plus and minus buttons */
+.quantity .minus,
+.quantity .plus,
+.button {
+   font-size: 12px;
+   display: inline-block;
+   line-height: 20px;
+   cursor: pointer;
+   padding: 6px;
+}
+.quantity .plus{
+    margin:  0 20px 0 40px;
+}
+/* Slider styles */
+.qslider{
+   display: block;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   margin: 10px auto;
+}
+

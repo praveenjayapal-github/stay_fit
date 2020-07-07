@@ -1,0 +1,10 @@
+h2{
+    color:royalblue;
+}
+body{
+    text-align: center;
+}
+#main{
+    width:210px;
+    display: inline-block;
+}
