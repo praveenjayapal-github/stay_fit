@@ -35,8 +35,8 @@ function notify() {
 }
 
 function convertMilliseconds(min) {
-    //return min * 60 * 1000;
-    return min*1000;
+    return min * 60 * 1000;
+    // return min*1000;
 }
 
 function setFrequency(frequency) {
