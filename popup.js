@@ -35,4 +35,5 @@ $(function () {
 
 function alertMessage(notifOptions){
   chrome.notifications.create('', notifOptions);
+  setTimeout(window.close, 1000);
 }
